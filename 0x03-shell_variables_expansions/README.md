@@ -1,1 +1,1 @@
-This is a shell, init files,variables and expansions project
+0x03-shell_variables_expansions

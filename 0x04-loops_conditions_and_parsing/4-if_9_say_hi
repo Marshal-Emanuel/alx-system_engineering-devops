@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
-#This script is displaying "Holberton School" 10 times and hi once
-i="0"
-while ((i < 10));
+# This script is displaying "Best School" 10 times
+
+x=0
+
+while [ $x -lt 10 ]
 do
-    echo "Holberton School";
-    if [ "$i" -eq 8 ]; then
-	echo "Hi";
-	fi
-    ((i++));
+  if [ $x -eq 9 ]
+  then
+    echo "Hi"
+  fi
+  echo "Best School"
+  (( x++ ))
 done

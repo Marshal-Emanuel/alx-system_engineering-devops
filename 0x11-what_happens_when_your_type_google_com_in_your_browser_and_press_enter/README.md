@@ -1,1 +1,1 @@
-A blog post explaining what happens when you type url on our browser and press Enter.
+0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter
